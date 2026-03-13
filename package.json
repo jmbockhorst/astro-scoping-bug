@@ -1,0 +1,8 @@
+{
+  "name": "astro-scoping-lightningcss-bug",
+  "scripts": {
+    "dev": "pnpm --color --filter @repo/astro-* run dev",
+    "start": "pnpm run dev"
+  },
+  "packageManager": "pnpm@10.12.1"
+}
